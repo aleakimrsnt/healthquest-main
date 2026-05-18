@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "446788055678",
+    "firebase_url": "https://healthquest-16bec-default-rtdb.firebaseio.com",
+    "project_id": "healthquest-16bec",
+    "storage_bucket": "healthquest-16bec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446788055678:android:65d97407c8af069e3a5e2f",
+        "android_client_info": {
+          "package_name": "com.health.quest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMLQd0vQ_V6652F_KLWGojW9JW9ZeKnXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

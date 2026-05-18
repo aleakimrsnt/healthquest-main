@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "healthquest",
+    "slug": "snack-b77059fc-9838-49a8-8107-c8949a9252fe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.health.quest",
+      "googleServicesFile": "./google-services.json",
+      "plugins": ["@react-native-google-signin/google-signin"]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
