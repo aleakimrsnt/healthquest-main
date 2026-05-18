@@ -95,9 +95,9 @@ npx expo start
 
 | Name                       | Role        |
 |----------------------------|-------------|
-| Aaron Joshua Geron         | Developer   |
 | Jozel Dana                 | Developer   |
 | Brigitte Estolatan         | Developer   |
+| Aaron Joshua Geron         | Developer   |
 | Mikaela Rose Sanota        | Developer   |
 | Nathalie Deanna Uba        | Developer   |
 | Karl Paulo Velarde         | Developer   |
