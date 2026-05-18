@@ -6,19 +6,12 @@
 
 ## Table of Contents
 
-- About
 - Features
 - Tech Stack
 - Getting Started
 - Installation
 - Usage
 - Developers
-
----
-
-## About
-
-HealthQuest is a school project mobile app developed with React Native and Firebase that encourages healthier eating habits through gamification and community features.
 
 ---
 
